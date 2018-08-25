@@ -1,0 +1,18 @@
+{
+  "name": "parcel-plugin-schemaorg",
+  "version": "0.0.1",
+  "description": "Parcel plugin to support schema.org data using JSON-LD",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "mocha --timeout 50000"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-bundler": "^1.5.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.1.1",
+    "fs-extra": "^7.0.0",
+    "parcel-assert-bundle-tree": "^1.0.0"
+  }
+}
