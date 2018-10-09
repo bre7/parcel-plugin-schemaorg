@@ -1,7 +1,7 @@
 
-# DEPRECATED
+# 🚨 DEPRECATED 🚨
 
-It's now part of Parcel: https://github.com/parcel-bundler/parcel/pull/1936
+🚨🚨 It's now part of Parcel: https://github.com/parcel-bundler/parcel/pull/1936
 
 ----
 
